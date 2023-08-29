@@ -1,0 +1,56 @@
+.heading_list
+{
+    font-size: 4rem;
+   color:var(--black);
+   margin-bottom: 2rem;
+   text-align: center;
+   text-transform: uppercase;
+}
+.add-productsss form{
+   max-width: 70rem;
+   margin: 0 auto;   
+   background-color: var(--white);
+   box-shadow: var(--box-shadow);
+   border:var(--border);
+   border-radius: .5rem;
+   padding:2rem;
+}
+
+.add-productsss form .flexxx{
+   display: flex;
+   gap:1.5rem;
+   flex-wrap: wrap;
+}
+
+.add-productsss form .flexxx .inputBoxx{
+   flex:1 1 25rem;
+} 
+
+.add-productsss form span{
+   font-size:1.7rem;
+   color:var(--light-color);
+}
+
+.add-productsss form .boxx{
+   font-size: 1.8rem;
+   background-color: var(--light-bg);
+   border-radius: .5rem;
+   padding:1.4rem;
+   width: 100%;
+   margin-top: 1.5rem;
+}
+
+.add-productsss form textarea{
+   height: 5.4rem;
+   resize: none;
+}
+
+.form-container form .boxx{
+   width: 100%;
+   margin:1rem 0;
+   border-radius: .5rem;
+   background-color: var(--light-bg);
+   padding:1.4rem;
+   font-size: 1.8rem;
+   color:var(--black);
+}

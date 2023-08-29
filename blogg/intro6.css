@@ -1,0 +1,48 @@
+*
+ .main 
+   {
+     padding: 16px;
+     margin-top: 30px;
+     height: 1500px;
+   }
+    .pla1
+  {
+      background:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url("field2.jpg");
+      background-size: cover;
+      box-sizing: border-box;
+      font-family: sans-serif ;
+      font-size: 30pt;
+      text-align: left;
+      color:white;
+  }
+  .pla2
+  {
+     background-color:/*#2C5E1A*/white;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: justify;
+      color:black;
+  }
+  .pla3
+  {
+     background-color:#2C5E1A;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: justify;
+      color:white;
+  }
+  .pla4
+  {
+     background-color:/*#2C5E1A*/white;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: justify;
+      color:black;
+  }
+ 

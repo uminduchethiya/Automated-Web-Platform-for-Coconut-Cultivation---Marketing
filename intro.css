@@ -1,0 +1,70 @@
+*
+ .main 
+   {
+     padding: 16px;
+     margin-top: 30px;
+     height: 1500px;
+   }
+    .intro1
+  {
+      background:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url("coco17.jpeg");
+      background-size: cover;
+      box-sizing: border-box;
+      font-family: sans-serif ;
+      font-size: 30pt;
+      text-align: left;
+      color:white;
+  }
+  
+   .intro2
+  }
+  {
+      background-color:#2C5E1A;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: justify;
+      color:white;
+  }
+  /*helvatica*/
+   .intro3
+  {
+      background-color:white;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: center;
+      color:#013A20;
+  }
+   .intro4
+  {
+      background-color:white;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: justify;
+      color:#013A20;
+  }
+   .intro5
+  {
+      background-color:#2C5E1A;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: justify;
+      color:white;
+  }
+  .intro6
+  {
+      background-color:#2C5E1A;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family:optima  ;
+      font-size: 14pt;
+      text-align: justify;
+      color:white;
+  }

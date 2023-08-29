@@ -1,0 +1,73 @@
+*
+ .main 
+   {
+     padding: 16px;
+     margin-top: 30px;
+     height: 1500px;
+   }
+    .intro1
+  {
+      background:linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.5)), url("coco18.png");
+      background-size: cover;
+      box-sizing: border-box;
+      font-family: sans-serif ;
+      font-size: 30pt;
+      text-align: left;
+      color:white;
+  }
+    .intro2
+  {
+      background-color:white;/*#2C5E1A*/;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family: optima  ;
+      font-size: 14pt;
+      text-align:center;
+      color:black;/*white*/;
+     /* border: medium;
+      border-color: black;
+      border-collapse: collapse;
+      table-layout: auto;*/
+  }
+    .intro3
+  {
+      background-color:white;/*#2C5E1A*/;
+      background-size: cover;
+      box-sizing: border-box;
+      font-family: optima  ;
+      font-size: 14pt;
+      text-align:center;
+      color:black;/*white*/;
+ }
+ .coco-list
+  {
+   background-color:#59981A;
+   padding: 3em;
+  
+  }
+
+  .coco-list .card
+  {
+   background-color: white;
+   border-radius: 20px;
+   padding: 1em;
+   box-shadow: 0px 10px 5px #81B622;
+   text-align: center;
+   font-family: 'Poppins';
+  
+  }
+
+  .card .title
+  {
+   font-size: 20pt;
+   font-weight: bold;
+
+  }
+
+  .card img
+  {
+   max-width: 100%;
+   border-radius: 5px;
+  }
+
+  
